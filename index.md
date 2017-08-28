@@ -1,32 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to Jorge Llambi´s Page
 
-You can use the [editor on GitHub](https://github.com/veroll63/jorgellambi/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Jinete olímpico Argentino
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Quintuple Campeón Nacional de Salto
 
-### Markdown
+### Historia
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+El vículo con los caballos arranca desde sus 4 años ...
 
-```markdown
-Syntax highlighted code block
+```Profesor de Equitación
+Clases individuales con el objetivo de potenciar el binomio
 
-# Header 1
-## Header 2
-### Header 3
+# Diseñador Internacional de Pistas
+## Jefe del Equipo Olímpico
+### 3 veces Olimpia de Plata
 
-- Bulleted
-- List
+- Asesoramietno integral en la compra y venta de caballos de salto
+- Consejos útiles
 
-1. Numbered
-2. List
+1. Club Hípico Argentino
+2. Club Alemán de Equitación
 
-**Bold** and _Italic_ and `Code` text
+**Argentina** _Italia_ `México` Colombia
 
-[Link](url) and ![Image](src)
+[https://www.youtube.com/watch?v=BebmqarvDK4] (url) and ![Image](http://www.globalcaballos.com/wp-content/uploads/2014/06/MAXIM-1024x972.jpg)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more contact jllambi@yahoo.com.
 
 ### Jekyll Themes
 
